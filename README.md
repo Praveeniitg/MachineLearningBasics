@@ -1,2 +1,2 @@
-# MachineLearningBasics
+# MachineLearningNDeepLearningBasics
 Machine Learning Basics
